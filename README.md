@@ -31,7 +31,6 @@ This repository is organized as follows:
 - **Description**: NuGet package containing the data models used by the FoodServiceMVC and FoodServiceAPI repositories.
 - **Repository**: [FoodServiceModels](https://github.com/Org-FoodService/FoodService.Models)
 
-
 ## 🛠️ Maintenance
 
 It is the team's responsibility to keep the documentation always up-to-date. Make sure to review and update the documentation regularly to reflect changes and improvements in the project.
