@@ -21,16 +21,15 @@ This repository is organized as follows:
 
 ### 1. FoodServiceMVC
 - **Description**: Web application developed in ASP.NET MVC for the FoodService project.
-- **Repository**: [FoodServiceMVC](https://github.com/Org-FoodService/FoodServiceMVC)](https://github.com/Org-FoodService/FoodServiceMVC)
+- **Repository**: [FoodServiceMVC](https://github.com/Org-FoodService/FoodServiceMVC)
 
 ### 2. FoodServiceAPI
 - **Description**: Backend for the FoodService project, responsible for managing the APIs.
-- **Repository**: [FoodServiceAPI](https://github.com/Org-FoodService/FoodServiceAPI)](https://github.com/Org-FoodService/FoodServiceAPI)
+- **Repository**: [FoodServiceAPI](https://github.com/Org-FoodService/FoodServiceAPI)
 
 ### 3. FoodServiceModels (NuGet Package)
 - **Description**: NuGet package containing the data models used by the FoodServiceMVC and FoodServiceAPI repositories.
-- **Repository**: [FoodServiceModels](https://github.com/Org-FoodService/FoodServiceModels)](https://github.com/Org-FoodService/FoodService.Models)
-
+- **Repository**: [FoodServiceModels](https://github.com/Org-FoodService/FoodService.Models)
 
 ## 🛠️ Maintenance
 
