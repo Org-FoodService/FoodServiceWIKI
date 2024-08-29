@@ -19,7 +19,7 @@ Follow these steps to set up and run FoodServiceMVC:
 1.  Clone the repository:
 
     ```
-    git clone https://github.com/Org-FoodService/FoodService.git
+    git clone https://github.com/Org-FoodService/FoodServiceMVC.git
     ```
 2. Open the project in Visual Studio or your preferred code editor.
 3.  Ensure that the `BASE_URL_API` environment variable is correctly configured in either the `appsettings.json` or `launchsettings.json` file. This variable should point to the running instance of FoodServiceAPI. For example:

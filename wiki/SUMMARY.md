@@ -24,6 +24,7 @@
 * [📚 Entity Framework (EF)](foodserviceapi/entity-framework-ef.md)
 * [📒 Logging Implementation](foodserviceapi/logging-implementation.md)
 * [🔐 Authentication](foodserviceapi/authentication.md)
+* [📦 RabbitMQ](foodserviceapi/rabbitmq.md)
 
 ## 🥘 FoodServiceMVC
 
